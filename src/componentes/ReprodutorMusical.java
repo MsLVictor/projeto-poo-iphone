@@ -1,4 +1,4 @@
-package components;
+package componentes;
 
 public class ReprodutorMusical {
     void tocar();
