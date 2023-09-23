@@ -1,9 +1,5 @@
 package iphone;
 
-import java.util.Scanner;
-
-import funcionalidades.Celular;
-
 
 public class Iphone {
     public static void main(String[] args) {
